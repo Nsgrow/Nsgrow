@@ -2,9 +2,9 @@
 <h3 align="center">A computer science undergrad passionate about building software that contributes positively to people's lives.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-- 🔭 I’m currently working on **Mern**
+- 🔭 I’m currently working on **RFID-based automation system**
 
-- 💬 Ask me about **DSA and MERN stack**
+- 💬 Ask me about **DSA and Java Spring Boot Development**
 
 - 📫 How to reach me **nsgrow7112@gmail.com**
 
